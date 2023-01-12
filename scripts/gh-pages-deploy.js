@@ -1,3 +1,4 @@
+const projectName = 'portfoliov1';
 const execa = require("execa");
 const fs = require("fs");
 (async () => {
