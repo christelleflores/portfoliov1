@@ -110,6 +110,9 @@ export default {
 *{
   background-color: rgb(85, 130, 139);
 }
+.target{
+  background-color: rgb(85, 130, 139);
+}
 .menu{
   position: fixed;
   
