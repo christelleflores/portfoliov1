@@ -12,7 +12,7 @@ const replaces = [
   {
     file: './vue.config.js',
     find: "publicPath: '/'",
-    replace: `publicPath: '/${projectName}/'`,
+    replace: `publicPath: '/portfoliov1/'`,
   },
 ];
 
