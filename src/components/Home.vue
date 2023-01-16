@@ -80,6 +80,13 @@
              <a target="_blank" href='https://www.drivenmediamanagement.com/'><button class="pbtn1">Website</button></a>
            </div>
          </div>
+         <div class="project">
+           <div class="content">
+             <h3>Wordle Clone</h3>
+             <p class="pd1">A developed clone of the popular web-based game, "Wordle" using React.</p>
+             <a target="_blank" href='https://christelleflores.github.io/wordle-clone/'><button class="pbtn1">Website</button></a>
+           </div>
+         </div>
        </div>
        </div>
    </div>
